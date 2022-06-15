@@ -1,3 +1,24 @@
 [submodule "csharp-dev-path-linkedin"]
 	path = csharp-dev-path-linkedin
 	url = git@github.com:gayashan4lk/csharp-dev-path-linkedin.git
+[submodule "csharp-collections"]
+	path = csharp-collections
+	url = git@github.com:gayashan4lk/csharp-collections.git
+[submodule "csharp-generics"]
+	path = csharp-generics
+	url = git@github.com:gayashan4lk/csharp-generics.git
+[submodule "csharp-interfaces"]
+	path = csharp-interfaces
+	url = git@github.com:gayashan4lk/csharp-interfaces.git
+[submodule "csharp-oop-fundamentals"]
+	path = csharp-oop-fundamentals
+	url = git@github.com:gayashan4lk/csharp-oop-fundamentals.git
+[submodule "csharp-type-system"]
+	path = csharp-type-system
+	url = git@github.com:gayashan4lk/csharp-type-system.git
+[submodule "csharp-program-flow"]
+	path = csharp-program-flow
+	url = git@github.com:gayashan4lk/csharp-program-flow.git
+[submodule "myfirst-csharp-program"]
+	path = myfirst-csharp-program
+	url = git@github.com:gayashan4lk/myfirst-csharp-program.git
